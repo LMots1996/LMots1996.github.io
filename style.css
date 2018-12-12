@@ -1,0 +1,37 @@
+html {
+    font-size: 14px;
+   color: white;
+    font-family: 'Muli', sans-serif; 
+    background-color: black;
+    
+} 
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-objx-XonTY71mZbiP4w3ro9KS6ADC8s7hHeZ4uLxfdobaxqU); 
+  
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Unlock', cursive; 
+    color: white;
+}
+h2 {
+    
+    font-size: 40px;
+    text-align: center;
+    color:white;
+    font-family: 'Unlock', cursive; 
+}
+p {
+    font-size: 18px;
+    color:white;
+    text-align: center
+}
+img {
+  display:table-column;
+  margin: 0 auto;
+}
+h4 {
+    font-size: 16px;
+    color:white;
+}

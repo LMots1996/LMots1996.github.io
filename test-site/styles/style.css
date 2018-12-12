@@ -1,0 +1,72 @@
+html {
+    font-size: 14px;
+   font-family: 'Muli', sans-serif;
+    color: antiquewhite;
+   
+    background-color: black;
+    
+}
+h1 {
+  font-size: 100px;
+  text-align: center;
+    color: white;
+    font-family: 'Unlock', cursive;
+    
+      
+}
+h2 {
+  font-size: 14px;
+text-align: center;
+  color: white;
+    
+    
+}
+h3 {
+font-size: 30px;
+text-align:left;
+color: White
+}
+
+
+p {
+  font-size: 18px;    
+  line-height: 1.5;
+  letter-spacing: 1px;
+    Color: white;
+    text-align:center    
+}
+li {
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 2px;
+    color: white;
+     
+} 
+
+img {
+  display:table-column;
+  margin: 0 auto;
+}
+img src= "i"> {
+  display: table-caption;
+  margin: 0 auto;
+}
+h4 {
+    font-size: 20px;
+    text-align: left;   
+    color: white    
+}
+p1 {
+    font-size: 12px;
+    text-align: left;
+    color: white    
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-objx-XonTY71mZbiP4w3ro9KS6ADC8s7hHeZ4uLxfdobaxqU); 
+  
+}
+A:link {
+    font-size: 30px; 
+    
+}
+
